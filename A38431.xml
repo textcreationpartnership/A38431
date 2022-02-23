@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands repentance Englands only remedy ... in a letter written by a minister in London, in answer to one sent from a worthy member of the late Long Parliament.</title>
+            <author>Minister in London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38431</idno>
+            <idno type="STC">Wing E3041</idno>
+            <idno type="STC">ESTC R1986</idno>
+            <idno type="EEBO-CITATION">12497893</idno>
+            <idno type="OCLC">ocm 12497893</idno>
+            <idno type="VID">62575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands repentance Englands only remedy ... in a letter written by a minister in London, in answer to one sent from a worthy member of the late Long Parliament.</title>
+                  <author>Minister in London.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Maxwell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Entred according to order"</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Moral conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62575:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLANDS</hi> REPENTANCE <hi>Englands</hi> only REMEDY: Religiouſly propounded in a Seri<g ref="char:EOLhyphen"/>ous Reſolve of this ENQUIRY, Q. <hi>What is to be deſired by all ſuch as wiſh well to</hi> England?</p>
+            <p>In a Letter written by a Miniſter in <hi>London,</hi> in Anſwer to one ſent from a worthy Member of the late Long PARLIAMENT.</p>
+            <p>
+               <hi>Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Maxwell,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62575:2"/>
+            <pb n="1" facs="tcp:62575:2"/>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>YOurs of the 18<hi rend="sup">th</hi> inſtant I received; whereby I diſ<g ref="char:EOLhyphen"/>cern your <hi>ſenſe</hi> of the ſad hand of God upon theſe Nations, <hi>in the many ſad Revolutions</hi> to which they have been ſubject. And now you ſeem ſtudious of the way of its recovery, in which I rejoyce. Though, Sir, your Enquiry doth a little amaze me; not ſo much for the mat<g ref="char:EOLhyphen"/>ter, as that you ſhould preſs me to it in this juncture of time. You well know, Sir, I have not declined to let you know my thoughts of all the late tranſactions of thoſe who called themſelves, <hi>The Long Parliament.</hi> Did I not much preſume on your Faithfulneſs never to uſe it to my damage (however God deal with you) I might burn my pen and paper for fear of a Treaſon and High Court of Juſtice. But I will not fear to write at his requeſt to whom I have often ſpoken freely, and yet met with the fidelity of a Friend.</p>
+            <p>Sir, your Enquiry is ſerious and ſeaſonable, and calls for a better Reſolution then I can render.</p>
+            <p>It is this,</p>
+            <p>Queſt. <hi>What is to be deſired by them that wiſh well to England?</hi>
+            </p>
+            <p>I underſtand your Enquiry as grounded on the preſent ſad ſtate of the Nations affairs; and ſo my reſolution is, as of a Miniſter of God, that of Iſrael; <hi>Repentance</hi> pro<g ref="char:EOLhyphen"/>miſed in Hoſea 3.5. <hi>Afterwards ſhall Iſrael return, and ſeek unto the Lord their God, and unto David their King,</hi> is the <hi>unum neceſſarium,</hi> one only thing to be deſired for <hi>England</hi> as her ſovereign Remedy againſt all her mala<g ref="char:EOLhyphen"/>dies
+<pb n="2" facs="tcp:62575:3"/>by the hand of God inflicted on her.</p>
+            <p>On ſerious obſervation of <hi>England,</hi> I cannot but judg her the parallell of the ten Tribes <hi>in ſin and ſorrow,</hi> and wiſh ſhe may precede them in a ſerious and ſeaſonable Re<g ref="char:EOLhyphen"/>pentance. Methinks Sir, the Prophet <hi>Hoſea</hi> his Prophe<g ref="char:EOLhyphen"/>tical Marriage of an Harlot, and leaving her a long time with this charge, <hi>To abide for him, and not to play the Harlot,</hi>
+               <note place="margin">Hoſ. 3.3.</note> 
+               <hi>or be for any other,</hi> is a lively Emblem of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> ſtate and duty.</p>
+            <p>
+               <hi>England,</hi> Sir, as Iſrael, have gone <hi>in the way of Jero<g ref="char:EOLhyphen"/>beam,</hi> and have ſinfully, againſt all Natural, Civil and Religious bonds, <note place="margin">
+                  <hi>Englands</hi> Di<g ref="char:EOLhyphen"/>ſeaſe.</note> caſt off and ſhut out their <hi>Lawful Go<g ref="char:EOLhyphen"/>vernours and Eſtabliſhed Government</hi> left them by their Progenitors, and under which ſhe long flouriſhed, unto the Enriching of her ſelf, Envy of her Neighbours, Nati<g ref="char:EOLhyphen"/>ons, and Encouragement of the Reformed Churches: And that after many Declarations, Proteſtations, Vows, Oaths, and the Solemn League and Covenant for the de<g ref="char:EOLhyphen"/>fence and preſervation of the Kings Majeſties Perſon and Poſterity, the Priviledges of Parliament, and the Liberties of the Subject, and that Sworn in a day of Extremity, when they ſeem'd to be in danger, and men were Jealous (the ſubverſion ſince effected) was intended. Nay, and after a vaſt expence of Blood and Treaſure in the defence of them; and when under an Obligation inviolable and never to be diſpenſed withall, wherein we have ſworn to God, <hi>Not to ſuffer our ſelves by any comminations, per<g ref="char:EOLhyphen"/>ſwaſions or terrors whatſoever, directly or indirectly to turn aſide to the right hand or to the left, or to make defection from this Cauſe.</hi> Yet have our Nation, to the Scandal of Religion, Reproach of the Nation, and Blaſ<g ref="char:EOLhyphen"/>phemy of God, and Provocation of his Juſtice, with Iſ<g ref="char:EOLhyphen"/>rael, made defection from their Lawful and Natural Prince, nay, and altered their unalterable Government at the Luſts of men ſubverting very Foundations. Only, Sir, I muſt be free to let you know, that in two things <hi>Englands</hi> de<g ref="char:EOLhyphen"/>fection hath been more vile then that of Iſraeis, in that it was made by a violent, baſe, unjuſt, extrajudicial, bar<g ref="char:EOLhyphen"/>barous
+<pb n="3" facs="tcp:62575:3"/>
+               <hi>Regicidee</hi> with an hypocritical pretence of Juſtice. Secondly<g ref="char:punc">▪</g> In that Members of the Parliament have been to themſelves an <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rod Aſcalonite</hi> to violently <hi>break up their own Sandedrin;</hi> and <hi>Guido Faux, to blow up King, Lords and Commons in Parliam<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t aſſembled,</hi> to the ever<g ref="char:EOLhyphen"/>laſting blemiſh of the Proteſtant Religion, and in the room thereof have been ſubjected to uſurpati<g ref="char:EOLhyphen"/>on and ſelf-created Governours, with whom moſt of the Nation have concurred, and to them conſented. And for the ſupport of this Uſurped Magiſtracy, Calves have been ſet up at <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and <hi>Bethell,</hi> all falſhood in Religion Tole<g ref="char:EOLhyphen"/>rated, the Miniſtry laid common, <hi>who will becomes a Prieſt unto the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> So that, Sir, Schiſm and Sedition, Rebel<g ref="char:EOLhyphen"/>lion unto Regicide, Perfidie and Perjurie is become <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Guilt and impiety written in ſuch legible and inde<g ref="char:EOLhyphen"/>lible Characters, that all men muſt ſay, She is become an Harlot, and ſee Repentance abſolutely neceſſary to prevent her ruine. Nay, Sir, give me leave to tell you, <hi>Englands</hi> ſin (like Iſraels) hath been pointed out by her <hi>Sorrows;</hi>
+               <note place="margin">
+                  <hi>Englands</hi> Di<g ref="char:EOLhyphen"/>ſtemper.</note> for ſhe having ſhamefully ſhaken off her Rightful Gover<g ref="char:EOLhyphen"/>nor and Government, hath been proſtituted to the Luſts and Ambition of particular men, and proudly trampled on by Military inſolency, in ſo much that our very Bell men can reproach us as we lie in our Beds. Shall I, Sir, make bold to inſert a Bell-mans ſound which I heard with my own ears. It was this,</p>
+            <q>
+               <l>Whilſt you ſecurely Sleep, I Ring my Bell,</l>
+               <l>Which lately hath Rung out your Freedoms Knell.</l>
+               <l>Your Souldiers, now, your Sovereigns are become,</l>
+               <l>Your Laws and Liberties command by ſound of Drum.</l>
+               <l>Nor is it ſtrange, for they read no Commiſſion,</l>
+               <l>Regard no Bonds, but proſper by Tranſgreſſion.</l>
+               <l>By Pride and Perjury, theſe Saints moſt rude,</l>
+               <l>Have Cut off the King, and Parliament ſubdu'd.</l>
+               <l>Your eyes have ſeen't, vile Slaves, yet in this ſeaſon,</l>
+               <l>You are Rid like Aſſes, and not Rul'd by Reaſon.</l>
+            </q>
+            <pb n="4" facs="tcp:62575:4"/>
+            <p>Oh, Sir, how many ſad and ſhameful revolutions have paſſed upon us, and yet we are full far from Settlement? <hi>Authority,</hi> like a Tennis-Ball, hath been caſt up and down for him to catch that catch can, and hath been toſſed be<g ref="char:EOLhyphen"/>tween a republican pack, and ſingle Perſon, whilſt both are plain and palpable uſurpers; for indeed in nature, and by Gods juſt judgment, <hi>Revolution is the conſtant Atten<g ref="char:EOLhyphen"/>dant on uſurpation;</hi> the Globe of Magiſtracy muſt roule up and down, whilſt off its Pin, and from its Center, it only reſteth in right ſubjects; and now we are covered with confuſion, and left without <hi>King,</hi> any lawful, nay, without <hi>Prince,</hi> any unlawful Governors without any eſtabliſhment in Chair or State, Civil and Religious or<g ref="char:EOLhyphen"/>der, and this was the puniſhment of Iſraels, now is of <hi>Englands</hi> adultery: the eſtate of her widow-hood, the time of divine deſertion; for <hi>Civil Order</hi> is Gods preſence in the world, and <hi>Religious Order</hi> his preſence in the Church. The very heathen conclude from the confuſions in the world, the <hi>Gods have forſaken the Earth;</hi> ſo that, Sir, he muſt have no Religion who ſeeth not in <hi>Englands</hi> caſe to conclude and cry out, <hi>Righteous art thou, O Lord, and juſt are all thy judgments.</hi>
+            </p>
+            <p>Now, Sir, I have ſhewed <hi>Englands</hi> diſeaſe and diſtem<g ref="char:EOLhyphen"/>per; it remains that I direct the cure and remedy, and that I ſay is, <hi>Repentance,</hi> true and hearty, General and Univerſal <hi>Repentance.</hi>
+               <note place="margin">
+                  <hi>Englands</hi> Cure and Remedy.</note> Let the Miniſters of God lift up their voice, and cry, <hi>Repent,</hi> England, <hi>repent, repent;</hi> let all that wiſh well to <hi>England,</hi> pray that God would pour out a <hi>Spirit of Repentance,</hi> that from <hi>Dan</hi> to <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſheba</hi> all Iſrael may return and ſeek unto the Lord, and to <hi>Da<g ref="char:EOLhyphen"/>vid</hi> their King.</p>
+            <p>Sir, Repentance is the <hi>end and errand of all Afflictions,</hi> Iſa. 27.11. Men cry out of doing the Work of God, nor do I deny it in all our ſtrange revolutions; only I deſire it may be noted, it is Gods <hi>ſtrange work,</hi> ſpeaking his diſpleaſure, and ſummoning his Peoples Repentance: a relenting heart, a returning ſpirit ſhall no ſooner be ef<g ref="char:EOLhyphen"/>fected, but theſe ſharp rods will be rejected, God will
+<pb n="5" facs="tcp:62575:4"/>walk contrary to a ſtubborn People, <note place="margin">Levit. 16.</note> until their uncircum<g ref="char:EOLhyphen"/>ciſed heart be humbled, but no longer for, then his end is effected.</p>
+            <p>Repentance doth <hi>engage divine return;</hi> for he hath promiſed, that when ever he <hi>ſpeaks againſt a Nation, to pluck it up, or root it out, if that Nation repent, he will repent,</hi> Jer. 18.8. He ever meets relenting <hi>Ephraim</hi> with Repentance for inflicted judgments; his method is to give <hi>Repentance and Remiſſion of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</hi>
+               <note place="margin">Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 31 18.</note> The greateſt good in<g ref="char:EOLhyphen"/>tended for Iſrael is contracted into the promiſe of repen<g ref="char:EOLhyphen"/>tance; the Sun doth not more certainly follow the morn<g ref="char:EOLhyphen"/>ing ſtar, then the return of Gods preſence doth attend repentance:</p>
+            <p>Nay, Sir, in this caſe repentance is an <hi>actual re-enjoy<g ref="char:EOLhyphen"/>ment of bleſſing,</hi> not only a quality diſpoſing to it, but an act putting into the poſſeſſion of it; as your Armies late repentance for their backſliding, put your Members actu<g ref="char:EOLhyphen"/>ally into the Houſe, to rule and govern, and their coun<g ref="char:EOLhyphen"/>ter repentance put you out again, ſo the repentance of your pretended Parliament, and the People of <hi>England</hi> puts <hi>lawful Governors</hi> into their proper places, and ſixeth <hi>Authority</hi> in its right Center, which ſin unhingeth and expelleth. You may obſerve, Iſraels Repentance was an actual and ardent Conteſt <hi>to bring <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me the King.</hi> Repen<g ref="char:EOLhyphen"/>tance breaks open the Bar of Sedition and Rebellion which ſhutteth out lawful authority; will but God give Repen<g ref="char:EOLhyphen"/>tance, the Reſtitution o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Englands</hi> Government will be very feaſable and ſpeedy. For this Repentance conſiſts in two parts.</p>
+            <p n="1">1. <hi>To abide for rightfull Governours,</hi> however expelled, and at preſent excluded; and <hi>not to be for any other Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> by any act of Allegiance, <note place="margin">Firſt part of Repentance.</note> or acknowledgment of Loyalty; ſtrike not hands with, conſent not to any <hi>ſelf-created Governours,</hi> by Pride, Perfidy, and Rebellion, ſlipping into a Chair of State; play not the wanton with any <hi>ſelf-advancing Abſalom,</hi> be not ſeduced by every <hi>ſedi<g ref="char:EOLhyphen"/>tious Sheba:</hi> If proud men have power and profaneneſs to catch a Scepter, and ſtamp Authority upon themſelves,
+<pb n="6" facs="tcp:62575:5"/>let men maintain their Chaſtity, deny their Allegiance, court them not as rightful Governours: Mens <hi>giddy unconſtancy is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>riſheth Rebellion:</hi> reſolved chaſtity is the rebuke of adul erous attempts; if with <hi>Mephib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſheth,</hi> men cannot follow their exil'd <hi>David,</hi> let them bid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their widow-hood, and retain their Loyalty until her<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>. According to Nature and Scripture a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<g ref="char:EOLhyphen"/>ple may better be <hi>without ary Prince, then ſtrike hands with a uſurpt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> for i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is <hi>ſorrow,</hi> but in this is <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> I ſhould Sir, wiſh that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and blind affection may not engage any to commit lewdneſs with any the Members of <hi>Englands</hi> late Husbands body; let not any the Members of our Collective Body now beheaded, and bemangled, cheat us with the claim of Allegiance by pretence of Relation, and cry of a Long Parliament; but rather let theſe Mem<g ref="char:EOLhyphen"/>bers be diſperſed throughout the Tribes of Iſrael as eviden<g ref="char:EOLhyphen"/>ces of that <hi>unheard of violence, and unparallell'd cruelty</hi> which hath been acted on <hi>our Eſpouſed Lord. Englands</hi> Subſcription of ſinful Engagements, and ſhameful Addreſ<g ref="char:EOLhyphen"/>ſes to unlawful Powers, hath been the breach of her cha<g ref="char:EOLhyphen"/>ſtity; let us abide for lawful Government, when we can do no more, evidence our integrity, and aſſert our duty and re<g ref="char:EOLhyphen"/>lation, when we cannot enjoy our right.</p>
+            <p>The 2d Act of Repentance to be done is to <hi>return unto the Lord,</hi>
+               <note place="margin">Second <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of Repen<g ref="char:EOLhyphen"/>tance.</note> 
+               <hi>and to</hi> David <hi>their King. Return to God, is the for<g ref="char:EOLhyphen"/>mall act of true Repentance;</hi> Sin and Repentance have the ſame object, though ſome ſin is more immediately againſt God. yet all ſin is a tranſgreſſion of his Law: the ſame God that ſaid, <hi>Thou ſhalt have none other Gods before my face,</hi> ſaid alſo, <hi>Thou ſhalt honour thy Father and thy Mo<g ref="char:EOLhyphen"/>ther;</hi> and, <hi>Thou ſhalt not commit adultery:</hi> Iſraels Rejecti<g ref="char:EOLhyphen"/>on o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Samuel,</hi> was a Rejection o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord; as light as men make o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Civil Right and Order, it <hi>is Gons direction</hi> in the ſecond Table of his Law: The complaint of the Penitent for any ſin, is <hi>unto God, Againſt thee, thee only have I ſinned;</hi> ſeeking <hi>to the Lord,</hi> will ſpur a ſeeking <hi>unto</hi> Da<g ref="char:EOLhyphen"/>vid <hi>their King;</hi> ſence of God offended <hi>engageth a return from all ſin,</hi> not only from laſt, but firſt acts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> violence
+<pb n="7" facs="tcp:62575:5"/>done unto Authority; not only the interruptions made on you in 1653. but thoſe chieſly made by you in 1648 and that with fulneſs of Reſolution to backſlide no more; a return to God will <hi>awe the conſcience, and obviate all the difficulties and diſcouragements of Repentance;</hi> danger ſinfully created by rebellion ſhall not deter repentance, becauſe it is a return to God, <hi>ready to forgive;</hi> let me ſay to <hi>England</hi> as God to Iſrael, <hi>If thou wilt return, return unto the Lord,</hi> who enjoyned your duty; <note place="margin">Jer. 4.1.</note> whoſe law hath been violated by your impiety; <hi>unto the Lord,</hi> to whom you ſware in the day of your diſtreſs; who is a God of Jealouſie and will avenge the quarrel of the Covenant; ſad is the Repentance which is but <hi>an exchange of ſin,</hi> or of ſins object; a bewailing of one rebellious act, but maintaining and proceeding in a ſeries of Rebellion, vio<g ref="char:EOLhyphen"/>lence, and ſedition. Sir, whatever Souldiers do, Saints muſt not thus return. Iſraels return to God muſt be with <hi>a return to</hi> David <hi>their King;</hi> by <hi>David</hi> is generally un<g ref="char:EOLhyphen"/>derſtood the Meſſiah the Lord Jeſus Chriſt, nor do I deny it, only Sir I wiſh it may be noted, the Meſſiah is called <hi>David</hi> for Relation and Succeſſion ſake, becauſe the ſame ſeed and rightful ſucceſſor of <hi>David,</hi> as the <hi>Pharaohs</hi> of <hi>Egypt,</hi> and <hi>Caeſars</hi> of <hi>Rome;</hi> he is <hi>their King,</hi> not only as the Meſſiah, but by a lineal diſcent from, and lawful ſuc<g ref="char:EOLhyphen"/>ceſſion to the Crown of Iſrael; ſo that a return to <hi>Da<g ref="char:EOLhyphen"/>vid</hi> their King is mentioned with an alluſion unto their Apoſtacy from, and Rebellion againſt the Houſe of <hi>David,</hi> which muſt be repented in their return; for they muſt em<g ref="char:EOLhyphen"/>brace their Lord Jeſus not only as the Meſſiah, but as <hi>their natural Prince</hi> and <hi>lawful Soveraign;</hi> and therefore <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> crieth out, <hi>Aliter vere &amp; ex animo Deum quaerere noli potuit, quin ſe etiam ſub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jceret Legitimoimperio oui aſtrictus erat; they could no way ſeek the Lord in truth, but by becoming Subject to their lawful Soveraign.</hi>
+            </p>
+            <p>
+               <hi>Englands</hi> Repentance muſt be according to this, they muſt ſeek the Lord, through Chriſt, by <hi>ſubjection to their lawful Government and Governors,</hi> from which they have revolted; the formality of Repentance from Rebellion is a
+<pb n="8" facs="tcp:62575:6"/>return to Loyalty. Sir, <hi>Reſtitution is an eſſential act of Repentance;</hi> the only reſtitution made for repented of re<g ref="char:EOLhyphen"/>bellion, is a re-eſtabliſhment of authority, and a return to Loyalty, becoming ſubject for conſcience ſake: Iſrael repenting the rebellion into which they run after ſelf-ad<g ref="char:EOLhyphen"/>vancing <hi>Abſalon,</hi> they ſell to ſtrife among themſelves a<g ref="char:EOLhyphen"/>bout <hi>fetching home their King:</hi>
+               <note place="margin">2 Sam. 19.</note> Nay, <hi>Shime<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s Character o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repentance is this, <hi>Thy ſervant doth know that I have ſinned, therefore behold I am come down the firſt of all the Houſe of</hi> Joſeph <hi>to meet my Lord the King;</hi> if God will do <hi>England</hi> good, he will give them hearts to give God the things that are Gods, and <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> which have been too long held back with vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>I wiſh Sir that none may pretend an inconſiſtency be<g ref="char:EOLhyphen"/>tween this act of repentance, and <hi>the good Old Cauſe of God and his People,</hi> for whoever ſhall ſo do, muſt ſell them<g ref="char:EOLhyphen"/>ſelves unto poſitive blaſphemy, and perpetual profaneneſs, pretending that to be the <hi>Cauſe of God</hi> which is expreſly repugnant to his revealed will, and reſolving rebellion is the honour of Religion, and only work of Saints; and wilfully ſhut their eyes, that they may cozen their conſci<g ref="char:EOLhyphen"/>ences: For Sir, is not the <hi>Kings preſervation,</hi> honour and happineſs<g ref="char:punc">▪</g> 
+               <hi>the Priviledges of Parliament,</hi> the <hi>Liberty of the Subject,</hi> and defence of the Government by King, Lords and Commons, written in ſuch Legible Characters in the Parliaments, C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties, and Armies <hi>Declarations, Remonſtran<g ref="char:EOLhyphen"/>ces, and Proteſtation; in all our Vowes, Oaths, and Covenants,</hi> as the good Old Cauſe for which ſo much blood and trea<g ref="char:EOLhyphen"/>ſure was expended, that none but the wilful impenitent can chuſe but run and read it; I ſhall for more full convi<g ref="char:EOLhyphen"/>ction refer you to Mr. <hi>Prynns Good Old Cauſe truly ſtated,</hi> which I know you have ſeen.</p>
+            <p>Neither Sir would I have <hi>the hazard of any mans life or eſtate,</hi> threatned by this repentance, be any bar unto it; for Sir, this hazard is ſelf-created, and ſinfully procured; which, ſhould it be inflicted, were but the proper effect of juſtice, better to be undergone here then hereafter unto
+<pb n="9" facs="tcp:62575:6"/>eternity; happy may be the ſtroak of juſtice which may ſave a Soul from Hell; the ſinful eſcapes of humane juſtice will one day be found exceeding ſad: running away rom the rod of correction, is an <hi>heightning</hi> rebellion, and <hi>note of a reprobate;</hi> and whether will ſuch flye from Gods all-ſeeing eye? or will it boot any to contend with God or impunity? Oh no, it will not.</p>
+            <p>But Sir, ſuch men may be <hi>worſe feared then hurt;</hi> repen<g ref="char:EOLhyphen"/>tance is the <hi>ſpunge of Guilt</hi> in the ſight o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, as well as in the ſight of God: God who hath the hearts of Kings in his hand, and turns them as the rivers of water relents to<g ref="char:EOLhyphen"/>ward a repenting <hi>Ephraim,</hi> and maketh <hi>David</hi> relent to<g ref="char:EOLhyphen"/>wards a rebellious <hi>Abſalon;</hi> Royal Clemency never ſhines brighter then in returns from violent exile; <hi>Shall any be put to death this day in Iſrael? for do I not know that I am this day King in Iſrael?</hi> is <hi>Davids</hi> anſwer to the ſon of <hi>Zerviah</hi> provoking againſt <hi>Shimei,</hi> who had full well de<g ref="char:EOLhyphen"/>ſerved it; any indifferent Politician can give aſſurance of indempnity for general delinquency, eſpecially, when true repentance is the ſpring that doth enforce it.</p>
+            <p>Laſtly, Sir, let none ſtand up againſt this act of Repen<g ref="char:EOLhyphen"/>tance, and cry, <hi>It is dangerous to Religion,</hi> a Free Parlia<g ref="char:EOLhyphen"/>ment will call home the King, and he is rude and pro<g ref="char:EOLhyphen"/>phane, and converſeth among Papiſts, and will bring Po<g ref="char:EOLhyphen"/>pery into the Land with him. To ſuch I ſay in ſhort, How came they into Gods Chair to become ſolicitous of Event? Is uncertain fear of an iſſue any ground of bar to duty? Where is our Faith ſhould carry us on in duty againſt all dread? Needs God our Sin to preſerve the Sanctity of his holy Name? Will not this prove a ſad ſupport unto Religon? But is not this fear groundleſs? Is not the King a Proteſtant born and brought up? bound in the ſame Solemn League and Covenant with our ſelves? Hath not our ſin ſubjected him to the ſaddeſt temptati<g ref="char:EOLhyphen"/>on to turn Papiſt that ever poor Prince underwent? Doth not Mr. <hi>Prynn</hi> tell us plainly and upon good demonſtra<g ref="char:EOLhyphen"/>tion, That his exile is the great propagation of the Catho<g ref="char:EOLhyphen"/>lick Cauſe, and high courteſie to <hi>Rome?</hi> Sir, theſe ob<g ref="char:EOLhyphen"/>ſtructions
+<pb n="10" facs="tcp:62575:7"/>are all frivolous, and ſo will appear, if ever God pour on the Nation a Spirit of Repentance.</p>
+            <p>Worthy Sir, I have with the plainneſs of a Miniſter, and freedom of a Friend, given my thoughts on your Enqui<g ref="char:EOLhyphen"/>ry, and that not <hi>Raſhly,</hi> but as having conſulted the O<g ref="char:EOLhyphen"/>racles of God. And I cannot but beg that you perſiſt no longer in your way of ſin: Oh that God would give you and your fellow. Members hearts <hi>to give him Glory,</hi> and after your ſucceſs, <hi>to take to your ſelves ſhame</hi> for your ſinful ſubverſion of an Eſtabliſhed Government, and that with pretence of Law, calling your ſelves a <hi>Parliament</hi> when your own Conſciences tell you, you are no ſuch thing. Sir, <hi>England</hi> is inclining to repent, if your Houſe prove not a <hi>Sheba</hi> to ſound again <hi>the Trumpet of Rebellion.</hi> However, my advice is, Let the Miniſters of God cry out, <hi>Repent, England, Repent, Repent;</hi> and let all the people of God pray, That <hi>England may return and ſeek unto the Lord, and to David their King:</hi> Then ſhall we be eſta<g ref="char:EOLhyphen"/>bliſhed enjoying our <hi>Princes as at the firſt, and our Rulers as at the beginning.</hi> I have no more, ſave with the Prophet Ezekiel, <hi>They, whether they will hear, or whether they will forbear, for they are a Rebellions Houſe, yet ſhall know there hath been a Prophet among them,</hi> Ezek. 2.5.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
